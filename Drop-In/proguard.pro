@@ -3,3 +3,5 @@
 
 # Google Play Services Wallet
 -dontwarn com.google.android.gms.**
+
+-dontwarn com.braintree.**
